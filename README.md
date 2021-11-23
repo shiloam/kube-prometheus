@@ -1,5 +1,7 @@
 # kube-prometheus
 
+[![IaC](https://app.soluble.cloud/api/v1/public/badges/6c518211-3166-4266-80c1-a7dac70ef41f.svg)](https://app.soluble.cloud/repos/details/github.com/shiloam/kube-prometheus)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/3bf909c7-805b-43d0-a3e9-b5f455c29d21.svg)](https://app.soluble.cloud/repos/details/github.com/shiloam/kube-prometheus)  
+
 [![Build Status](https://github.com/prometheus-operator/kube-prometheus/workflows/ci/badge.svg)](https://github.com/prometheus-operator/kube-prometheus/actions)
 [![Slack](https://img.shields.io/badge/join%20slack-%23prometheus--operator-brightgreen.svg)](http://slack.k8s.io/)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/prometheus-operator/kube-prometheus)
